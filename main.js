@@ -1,1 +1,1 @@
-console.log('Hello there')
+let songs = ["song1", "song2", "song3", "song4", "song5"];
